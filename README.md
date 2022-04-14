@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://cdn.vox-cdn.com/thumbor/079TJCCpgWCi_QNwfJN7VLu26Wo=/0x0:4400x2200/920x613/filters:focal(1848x748:2552x1452):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64679195/ST3_Production_Still_4.0.jpg)
 
 <!-- Add your details -->
 
